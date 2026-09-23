@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for Xtreme Bookmarks v1.19, a bookmark-management extension for Chromium/Edge and Firefox.",
+  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "bookmarks",
+    "chrome",
+    "edge",
+    "firefox",
+    "productivity",
+    "backup",
+    "technical-support"
+  ]
+}
