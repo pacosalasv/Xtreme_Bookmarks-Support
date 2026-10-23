@@ -1,0 +1,17 @@
+{
+  "description": "Advanced bookmark manager with smart search, tags, favorites, notes, sidebar, folder colors, backups, de-duplication, broken-link cleanup and HTML export.",
+  "homepage": "https://xtrememindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "bookmarks",
+    "chrome",
+    "edge",
+    "firefox",
+    "productivity",
+    "backup",
+    "technical-support"
+  ]
+}
